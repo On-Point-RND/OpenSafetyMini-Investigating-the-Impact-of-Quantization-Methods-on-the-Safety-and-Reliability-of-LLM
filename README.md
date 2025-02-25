@@ -1,6 +1,6 @@
 # OpenSafetyMini - a challenging open-ended dataset and human evaluations for LLM safety research
 
-This repository contains:
+https://arxiv.org/abs/2502.15799
 
 ## Datasets
 
